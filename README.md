@@ -1,8 +1,8 @@
 ### Hi, I'm Vlad Ra
 
-Product Manager based in Lisbon, Portugal. I build and scale digital products from zero to market.
+AI-First Product Manager based in Lisbon, Portugal. I build and scale digital products from zero to Series A.
 
-**Currently:** Product Manager at [Trendle](https://trendle.fi) — a prediction market for the attention economy. Shipped the MVP and scaled to $500K+ trading volume.
+**Currently:** Product Manager at [Trendle](https://trendle.fi) — a prediction market for the attention economy. Shipped the MVP and scaled to $1M+ trading volume.
 
 **Previously:**
 - Product Manager at [Quantum Rift](https://theoct.xyz) — real-time multiplayer platform, 0 to 10K MAU
@@ -11,6 +11,7 @@ Product Manager based in Lisbon, Portugal. I build and scale digital products fr
 
 **What I do:**
 - 0-to-1 product launches with data-driven iteration
+- AI tranformation to speed up discovery and delivery
 - Web3, DeFi, and prediction markets
 - Full-stack prototyping (TypeScript, React, Next.js)
 
