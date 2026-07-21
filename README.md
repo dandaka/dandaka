@@ -2,9 +2,12 @@
 
 AI-First Product Manager based in Lisbon, Portugal. I build and scale digital products from zero to Series A.
 
-**Currently:** Product Manager at [Trendle](https://trendle.fi) — a prediction market for the attention economy. Shipped the MVP and scaled to $1M+ trading volume.
+**Open source contributions:**
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent/pull/17495) — fixed a gateway thread-leak crash; merged onto main with authorship preserved
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser/pull/1531) — session-tab isolation & `--pin-tab` strict mode; credited in the upstream fix
 
 **Previously:**
+- Product Manager at [Trendle](https://trendle.fi) — a prediction market for the attention economy. Shipped the MVP and scaled to $4M+ trading volume.
 - Product Manager at [Quantum Rift](https://theoct.xyz) — real-time multiplayer platform, 0 to 10K MAU
 - Product Lead at [Snark.art / OG.Art](https://og.art) — on-chain generative art, $4M in sales, partnerships with Pace Gallery and Christie's
 - Co-Founder at [Accuraten](https://accuraten.com) — digital product agency (2014–present)
